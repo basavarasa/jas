@@ -39,6 +39,8 @@ h1, h2, h3, h4, h5, h6 {
 a.article-title:hover {
   color: #428bca;
   text-decoration: none;
+  background: red;
+  position: relative;
 }
 
 .article-content {
